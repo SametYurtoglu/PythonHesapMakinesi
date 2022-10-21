@@ -1,1 +1,1 @@
-# PythonHesapMakinesi
+# Python ile Hesap Makinesi
